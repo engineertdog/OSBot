@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EngineerCooker">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="EngineerCooker.jar">
+      <element id="module-output" name="EngineerCooker" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

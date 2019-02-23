@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EngineerFishing">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="EngineerFishing.jar">
+      <element id="module-output" name="EngineerFishing" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

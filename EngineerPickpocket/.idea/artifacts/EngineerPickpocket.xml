@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EngineerPickpocket">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="EngineerPickpocket.jar">
+      <element id="module-output" name="EngineerPickpocket" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EngineerRunecrafter">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="EngineerRunecrafter.jar">
+      <element id="module-output" name="EngineerRunecrafter" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
